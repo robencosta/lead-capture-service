@@ -1,3 +1,3 @@
-# rnc-leads-service
-Serviço RESTFull responsável pela captura e registro de leads enviados por formulário.
+# lead-capture-service
+RESTFull service responsible for capturing and registering leads sent by form.
 Spring Framework
